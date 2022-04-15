@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.section-product {
+    margin-top: 80px
+}
+
+.mt-60 {
+    margin-top: 60px;
+}
+
+section.section-slide {
+    margin-top: 84px;
+}
+
+.clf {
+    color: #fff;
+}
+
+.wrap-menu-desktop {
+    top: 0
+}
+.limiter-menu-desktop {
+    background:#fff;
+}
